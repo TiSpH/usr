@@ -1,5 +1,4 @@
 # usr
 personal use
-test.
 
 
